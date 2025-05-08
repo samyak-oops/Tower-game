@@ -20,3 +20,4 @@ The objective is to build the tallest tower by stacking moving blocks perfectly 
 - **JavaScript (Vanilla)** – Game logic and interactivity
 
 ## Screenshot
+![image](https://github.com/user-attachments/assets/66da08a8-a2a8-42bd-94b8-e6a103c8aea8)
